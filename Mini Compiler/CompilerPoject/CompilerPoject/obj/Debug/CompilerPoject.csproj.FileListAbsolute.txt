@@ -1,0 +1,10 @@
+E:\Compiler Project\CompilerPoject\CompilerPoject\bin\Debug\CompilerPoject.exe.config
+E:\Compiler Project\CompilerPoject\CompilerPoject\bin\Debug\CompilerPoject.exe
+E:\Compiler Project\CompilerPoject\CompilerPoject\bin\Debug\CompilerPoject.pdb
+E:\Compiler Project\CompilerPoject\CompilerPoject\obj\Debug\CompilerPoject.csprojAssemblyReference.cache
+E:\Compiler Project\CompilerPoject\CompilerPoject\obj\Debug\CompilerPoject.Form1.resources
+E:\Compiler Project\CompilerPoject\CompilerPoject\obj\Debug\CompilerPoject.Properties.Resources.resources
+E:\Compiler Project\CompilerPoject\CompilerPoject\obj\Debug\CompilerPoject.csproj.GenerateResource.cache
+E:\Compiler Project\CompilerPoject\CompilerPoject\obj\Debug\CompilerPoject.csproj.CoreCompileInputs.cache
+E:\Compiler Project\CompilerPoject\CompilerPoject\obj\Debug\CompilerPoject.exe
+E:\Compiler Project\CompilerPoject\CompilerPoject\obj\Debug\CompilerPoject.pdb
